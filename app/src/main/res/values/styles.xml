@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+<style name="HeadingFont">
+    <item name="android:fontFamily">sans-serif-condensed</item>
+    <item name="android:textColor">#0000A0</item>
+    <item name="android:textSize">25sp</item>
+</style>
+    <style name="SubHeadingFont">
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textColor">#357E37</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+</resources>
